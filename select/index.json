@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "つのる想い (日本語歌)",
+  "base_artist": "橋本さとし",
+  "createdAt": "2026-03-25T11:20:30.635984Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つのる想い (日本語歌)",
+      "artist": "橋本さとし & アーネスト・デ・ラ・クルーズ",
+      "has_synced": false,
+      "path": "select/pl_01_つのる想い_(日本語歌)_橋本さとし_&_アーネスト・デ・ラ・クルーズ.txt"
+    }
+  ]
+}
